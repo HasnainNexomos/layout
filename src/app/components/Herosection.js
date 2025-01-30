@@ -1,7 +1,7 @@
 const HeroSection = () => {
   return (
     <div className="flex flex-col lg:flex-row py-6 px-[8%] bg-gray-50 gap-0">
-      {/* Left Section */}
+
       <div className="flex flex-col justify-between p-6 md:p-8 bg-indigo-900 text-white lg:w-[60%]">
         <div className="py-">
           <h1 className="text-2xl md:text-4xl leading-tight">
@@ -21,7 +21,7 @@ const HeroSection = () => {
         </div>
       </div>
 
-      {/* Right Section */}
+ 
       <div className="flex items-center justify-center lg:w-[40%] bg-[#83A9AC]">
         <img
           src="img/chair.png"

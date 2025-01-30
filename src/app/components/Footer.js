@@ -37,7 +37,7 @@ const Footer = () => {
                 placeholder="your@email.com"
                 className="px-4 py-2 rounded-l-md w-full text-gray-700 focus:outline-none"
               />
-              <button className="bg-white text-indigo-900 px-4 py-2 rounded-r-md">
+              <button className="bg-white leading-tight text-indigo-900 px-4  rounded-r-md">
                 Sign up
               </button>
             </div>
